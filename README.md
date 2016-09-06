@@ -8,6 +8,8 @@ How to Make Crud Php OOP PDO
 5. change the username and password that you use database
 6. run in a browser
 
+##koneksi.php
+here all the functions and database connections (MySql) are situated, here using OOP PHP PDO
 ```
 <?php
 class crud
